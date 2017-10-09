@@ -1,0 +1,22 @@
+{
+  "name": "react-constellation",
+  "version": "0.1.0",
+  "description": "A simple react component to render a constellation overlay",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradywatkinson/react-constellation.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Brady Watkinson <brady.a.watkinson@gmail.com> (bradywatkinson.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradywatkinson/react-constellation/issues"
+  },
+  "homepage": "https://github.com/bradywatkinson/react-constellation#readme"
+}

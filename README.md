@@ -1,2 +1,2 @@
 # react-constellation
-A simple react component to add a global constellation layer
+A simple react component to render a constellation overlay
